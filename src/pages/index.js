@@ -4,7 +4,7 @@ const IndexPage = () => {
 return (
   <main>
     <h1>Rohan's Website Heading</h1>
-    <p>This is my website and i'm writing a blog</p>
+    <p>This is my website and i'm writingg a blog</p>
 
   </main>
 )
